@@ -1,6 +1,6 @@
 # Библиотека значков для VBA UserForms
 
-**Русский** | [English](README.md)
+**Русский** | [English](README.md) | [UserForms-Class-ALL](https://github.com/vbatools/UserForms-Class-ALL/blob/main/README_RUS.md)
 
 Обширная коллекция значков для приложений VBA UserForms с использованием шрифта Segoe MDL2 Assets. Эта библиотека предоставляет простой доступ к широкому спектру значков в стиле Microsoft, которые можно использовать в приложениях Excel VBA.
 
