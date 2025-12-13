@@ -1,6 +1,6 @@
 # VBA UserForms Class Icons
 
-English | [Русский](README_RUS.md)
+**English** | [Русский](README_RUS.md)
 
 A comprehensive collection of icons for VBA UserForms applications using the Segoe MDL2 Assets font. This library provides easy access to a wide range of Microsoft-style icons that can be used in Excel VBA applications.
 
